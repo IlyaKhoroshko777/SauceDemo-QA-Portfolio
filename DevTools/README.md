@@ -5,7 +5,7 @@ Practical Chrome DevTools testing performed on the SauceDemo web application.
 ## Environment
 
 - OS: Windows 11
-- Browser: Google Chrome
+- Browser: Google Chrome 151.0.7922.172 (Official Build) (64-bit)
 - Application: SauceDemo
 
 ## Elements
