@@ -48,10 +48,10 @@ The following areas are planned to be covered:
 ### Completed
 
 * [x] Chrome DevTools Testing
+* [x] Test Cases
 
 ### In Progress / Planned
 
-* [ ] Test Cases
 * [ ] Checklists
 * [ ] Bug Reports
 * [ ] API Testing
