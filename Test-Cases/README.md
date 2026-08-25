@@ -44,4 +44,4 @@ The test suite includes:
 
 ## Test Cases Document
 
-[View SauceDemo Login Test Cases](SauceDemo-Login-Test-Cases.pdf)
+[View SauceDemo Login Test Cases](SauceDemo-Login-Test-Case.pdf)
