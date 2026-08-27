@@ -49,10 +49,10 @@ The following areas are planned to be covered:
 
 * [x] Chrome DevTools Testing
 * [x] Test Cases
+* [x] Checklists
 
 ### In Progress / Planned
 
-* [ ] Checklists
 * [ ] Bug Reports
 * [ ] API Testing
 * [ ] SQL Practice
