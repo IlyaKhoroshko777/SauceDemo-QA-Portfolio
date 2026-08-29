@@ -50,10 +50,10 @@ The following areas are planned to be covered:
 * [x] Chrome DevTools Testing
 * [x] Test Cases
 * [x] Checklists
+* [x] Bug Reports
 
 ### In Progress / Planned
 
-* [ ] Bug Reports
 * [ ] API Testing
 * [ ] SQL Practice
 * [ ] Test Summary Report
