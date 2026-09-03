@@ -70,7 +70,7 @@ SauceDemo-QA-Portfolio/
 ├── Checklists/
 ├── Bug-Reports/
 ├── API/
-├── SQL/
+├── SQL Practice/
 └── Test-Summary/
 ```
 
