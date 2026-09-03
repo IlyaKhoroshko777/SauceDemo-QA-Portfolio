@@ -51,11 +51,11 @@ The following areas are planned to be covered:
 * [x] Test Cases
 * [x] Checklists
 * [x] Bug Reports
+* [x] API Testing
+* [x] SQL Practice
 
 ### In Progress / Planned
 
-* [ ] API Testing
-* [ ] SQL Practice
 * [ ] Test Summary Report
 
 ## Project Structure
