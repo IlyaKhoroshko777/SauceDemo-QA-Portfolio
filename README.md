@@ -53,10 +53,7 @@ The following areas are planned to be covered:
 * [x] Bug Reports
 * [x] API Testing
 * [x] SQL Practice
-
-### In Progress / Planned
-
-* [ ] Test Summary Report
+* [x] Test Summary Report
 
 ## Project Structure
 
